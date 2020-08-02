@@ -1,13 +1,9 @@
 
 Online insurance management system
 
-Front-end: React, Redux, HTML, CSS, JavaScript
+Front-end: HTML, CSS, JavaScript
 
-Back-end: Java8, Spring, Spring Boot, Spring Security
-
-Database: MySQL 8.0, MongoDB
-
-Server: Apache Tomcat v8.5
+Server: Apache Tomcat v9.0
 
 Other technology: JDBC, Servlet, JSP
 
